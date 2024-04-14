@@ -1,0 +1,136 @@
+.h2s {
+    font-weight: bold;
+    color: #31455d;
+}
+.h2 {
+    color: #31455d;
+}
+
+.bg-azul {
+    background-color: #31455d;
+}
+
+.bg-azul-w{
+    background-color: #cbe0ff;
+    
+}
+
+.color-w{
+    color: #cbe0ff;
+    font-weight: 600;
+}
+
+.margin {
+    margin: 0 auto;
+    margin-top: 0;
+}
+
+.btn-select{
+    margin: 0 auto;
+    padding: 2%;
+    width: 30%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.title-form {
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+
+.card{
+    background-color: #E9ECEF;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px 0px #31455d;
+}
+
+.text-decoration {
+    text-decoration: none;
+    text-underline-offset: none;
+    color: #cbe0ff;
+}
+
+.rodape {
+    display: flex;
+    flex-shrink: 0;
+    background-color: #31455d;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 2.5rem;
+    position: fixed;
+    bottom: 0;
+
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    }
+
+.section {
+    background-color: #31455d;
+    color: #fff;
+    height: 400px;
+    width: 400px;
+    margin: 0 1% 1% 2%
+
+}
+
+
+.margin-div {
+    border: 2px solid #fff;
+    margin: 2% 2%;
+}
+
+.button {
+    background-color: #cbe0ff;
+    color: #31455d;
+    padding: 1% 3%;
+    border: none;
+}
+
+.text-color {
+    color: #31455d;
+    font-weight: 500;
+}
+
+.text-color-w {
+    color: #cbe0ff;
+    font-weight: 500;
+}
+
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+
+.bg-form {
+    background-color: #31455d;
+    color: #cbe0ff;
+    width: 800px;
+    height: 100%;
+}
+
+input {
+    color: #31455d;
+}
